@@ -11,4 +11,4 @@
 - red onion
 - green onion
 - grated ginger
-- lime
+- lemon
